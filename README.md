@@ -5,4 +5,5 @@ The idea for the solution to the coronavirus outbreak is:
 3. A machine learning model is then trained on the data to find out the probability of a person having the infection.
 4. The model is then used to find out whom to test for the infection first under a limited testing capacity.
 5. The same model can be used to find potential candidates for conducting random tests.
+
 Technologies used : HTML, Bootstrap , Python , 
